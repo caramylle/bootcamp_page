@@ -4,7 +4,7 @@
     <div class="container mx-auto px-6 lg:px-20">
         <div class="max-w-2xl">
             <h1 class="text-2xl font-extrabold mb-6">
-                Build Your Own Projects</h1>
+                Building Future</h1>
 
                 <p class="text-lg mb-8 text-white">
                     Explore the World of IT. Build on your own! </p>
